@@ -1,0 +1,24 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+   @import url(https://db.onlinewebfonts.com/c/5d584e944976c81ab816c6f34a530d43?family=IndustryW00-Black);
+
+   @font-face {font-family: "IndustryW00-Black"; src: url("https://db.onlinewebfonts.com/t/5d584e944976c81ab816c6f34a530d43.eot"); src: url("https://db.onlinewebfonts.com/t/5d584e944976c81ab816c6f34a530d43.eot?#iefix") format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/5d584e944976c81ab816c6f34a530d43.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/5d584e944976c81ab816c6f34a530d43.woff") format("woff"), url("https://db.onlinewebfonts.com/t/5d584e944976c81ab816c6f34a530d43.ttf") format("truetype"), url("https://db.onlinewebfonts.com/t/5d584e944976c81ab816c6f34a530d43.svg#IndustryW00-Black") format("svg"); }
+
+*{
+   font-family: "IndustryW00-Black"
+}
+
+
+
+
+
+
+
+
